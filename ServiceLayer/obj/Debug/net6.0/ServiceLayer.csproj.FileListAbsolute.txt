@@ -1,0 +1,17 @@
+D:\projects\ITicket6\FinalApi\ServiceLayer\bin\Debug\net6.0\ServiceLayer.deps.json
+D:\projects\ITicket6\FinalApi\ServiceLayer\bin\Debug\net6.0\ServiceLayer.dll
+D:\projects\ITicket6\FinalApi\ServiceLayer\bin\Debug\net6.0\ServiceLayer.pdb
+D:\projects\ITicket6\FinalApi\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.AssemblyReference.cache
+D:\projects\ITicket6\FinalApi\ServiceLayer\obj\Debug\net6.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\ITicket6\FinalApi\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfoInputs.cache
+D:\projects\ITicket6\FinalApi\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfo.cs
+D:\projects\ITicket6\FinalApi\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\projects\ITicket6\FinalApi\ServiceLayer\obj\Debug\net6.0\ServiceLayer.dll
+D:\projects\ITicket6\FinalApi\ServiceLayer\obj\Debug\net6.0\refint\ServiceLayer.dll
+D:\projects\ITicket6\FinalApi\ServiceLayer\obj\Debug\net6.0\ServiceLayer.pdb
+D:\projects\ITicket6\FinalApi\ServiceLayer\obj\Debug\net6.0\ref\ServiceLayer.dll
+D:\projects\ITicket6\FinalApi\ServiceLayer\bin\Debug\net6.0\DomainLayer.dll
+D:\projects\ITicket6\FinalApi\ServiceLayer\bin\Debug\net6.0\RepositoryLayer.dll
+D:\projects\ITicket6\FinalApi\ServiceLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+D:\projects\ITicket6\FinalApi\ServiceLayer\bin\Debug\net6.0\DomainLayer.pdb
+D:\projects\ITicket6\FinalApi\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CopyComplete

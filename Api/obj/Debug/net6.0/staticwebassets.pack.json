@@ -1,0 +1,129 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\projects\\ITicket6\\FinalApi\\Api\\wwwroot\\Templates\\Confirm.html",
+      "PackagePath": "staticwebassets\\Templates\\Confirm.html"
+    },
+    {
+      "Id": "D:\\projects\\ITicket6\\FinalApi\\Api\\wwwroot\\Templates\\Order.html",
+      "PackagePath": "staticwebassets\\Templates\\Order.html"
+    },
+    {
+      "Id": "D:\\projects\\ITicket6\\FinalApi\\Api\\wwwroot\\Templates\\Reset.html",
+      "PackagePath": "staticwebassets\\Templates\\Reset.html"
+    },
+    {
+      "Id": "D:\\projects\\ITicket6\\FinalApi\\Api\\wwwroot\\asset-manifest.json",
+      "PackagePath": "staticwebassets\\asset-manifest.json"
+    },
+    {
+      "Id": "D:\\projects\\ITicket6\\FinalApi\\Api\\wwwroot\\assets\\locales\\az\\translation.json",
+      "PackagePath": "staticwebassets\\assets\\locales\\az\\translation.json"
+    },
+    {
+      "Id": "D:\\projects\\ITicket6\\FinalApi\\Api\\wwwroot\\assets\\locales\\en\\translation.json",
+      "PackagePath": "staticwebassets\\assets\\locales\\en\\translation.json"
+    },
+    {
+      "Id": "D:\\projects\\ITicket6\\FinalApi\\Api\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\projects\\ITicket6\\FinalApi\\Api\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\projects\\ITicket6\\FinalApi\\Api\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "D:\\projects\\ITicket6\\FinalApi\\Api\\wwwroot\\robots.txt",
+      "PackagePath": "staticwebassets\\robots.txt"
+    },
+    {
+      "Id": "D:\\projects\\ITicket6\\FinalApi\\Api\\wwwroot\\static\\css\\main.701ff0da.css",
+      "PackagePath": "staticwebassets\\static\\css\\main.701ff0da.css"
+    },
+    {
+      "Id": "D:\\projects\\ITicket6\\FinalApi\\Api\\wwwroot\\static\\css\\main.701ff0da.css.map",
+      "PackagePath": "staticwebassets\\static\\css\\main.701ff0da.css.map"
+    },
+    {
+      "Id": "D:\\projects\\ITicket6\\FinalApi\\Api\\wwwroot\\static\\js\\787.d24e7e99.chunk.js",
+      "PackagePath": "staticwebassets\\static\\js\\787.d24e7e99.chunk.js"
+    },
+    {
+      "Id": "D:\\projects\\ITicket6\\FinalApi\\Api\\wwwroot\\static\\js\\787.d24e7e99.chunk.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\787.d24e7e99.chunk.js.map"
+    },
+    {
+      "Id": "D:\\projects\\ITicket6\\FinalApi\\Api\\wwwroot\\static\\js\\main.fdecbc1b.js",
+      "PackagePath": "staticwebassets\\static\\js\\main.fdecbc1b.js"
+    },
+    {
+      "Id": "D:\\projects\\ITicket6\\FinalApi\\Api\\wwwroot\\static\\js\\main.fdecbc1b.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\static\\js\\main.fdecbc1b.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\projects\\ITicket6\\FinalApi\\Api\\wwwroot\\static\\js\\main.fdecbc1b.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\main.fdecbc1b.js.map"
+    },
+    {
+      "Id": "D:\\projects\\ITicket6\\FinalApi\\Api\\wwwroot\\static\\media\\about-title.bb78ed384f800f6c0518.png",
+      "PackagePath": "staticwebassets\\static\\media\\about-title.bb78ed384f800f6c0518.png"
+    },
+    {
+      "Id": "D:\\projects\\ITicket6\\FinalApi\\Api\\wwwroot\\static\\media\\app.8814bbab8c09b4742419.png",
+      "PackagePath": "staticwebassets\\static\\media\\app.8814bbab8c09b4742419.png"
+    },
+    {
+      "Id": "D:\\projects\\ITicket6\\FinalApi\\Api\\wwwroot\\static\\media\\getFetch.c780682470504fffbd04.cjs",
+      "PackagePath": "staticwebassets\\static\\media\\getFetch.c780682470504fffbd04.cjs"
+    },
+    {
+      "Id": "D:\\projects\\ITicket6\\FinalApi\\Api\\wwwroot\\static\\media\\logoiticket.96438d4a8192e4fed8f0.png",
+      "PackagePath": "staticwebassets\\static\\media\\logoiticket.96438d4a8192e4fed8f0.png"
+    },
+    {
+      "Id": "D:\\projects\\ITicket6\\FinalApi\\Api\\wwwroot\\static\\media\\slick.2630a3e3eab21c607e21.svg",
+      "PackagePath": "staticwebassets\\static\\media\\slick.2630a3e3eab21c607e21.svg"
+    },
+    {
+      "Id": "D:\\projects\\ITicket6\\FinalApi\\Api\\wwwroot\\static\\media\\slick.295183786cd8a1389865.woff",
+      "PackagePath": "staticwebassets\\static\\media\\slick.295183786cd8a1389865.woff"
+    },
+    {
+      "Id": "D:\\projects\\ITicket6\\FinalApi\\Api\\wwwroot\\static\\media\\slick.a4e97f5a2a64f0ab1323.eot",
+      "PackagePath": "staticwebassets\\static\\media\\slick.a4e97f5a2a64f0ab1323.eot"
+    },
+    {
+      "Id": "D:\\projects\\ITicket6\\FinalApi\\Api\\wwwroot\\static\\media\\slick.c94f7671dcc99dce43e2.ttf",
+      "PackagePath": "staticwebassets\\static\\media\\slick.c94f7671dcc99dce43e2.ttf"
+    },
+    {
+      "Id": "D:\\projects\\ITicket6\\FinalApi\\Api\\wwwroot\\static\\media\\theatre.7eb4eb01ccac280be88e.jpg",
+      "PackagePath": "staticwebassets\\static\\media\\theatre.7eb4eb01ccac280be88e.jpg"
+    },
+    {
+      "Id": "D:\\projects\\ITicket6\\FinalApi\\Api\\wwwroot\\static\\media\\visalog.28e924d583261e9367fe.png",
+      "PackagePath": "staticwebassets\\static\\media\\visalog.28e924d583261e9367fe.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Api.props",
+      "PackagePath": "build\\Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Api.props",
+      "PackagePath": "buildMultiTargeting\\Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Api.props",
+      "PackagePath": "buildTransitive\\Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

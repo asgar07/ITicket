@@ -1,0 +1,1429 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B104EE-6E79-4740-BEE2-3CF8F2231517}|Api\\Api.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B104EE-6E79-4740-BEE2-3CF8F2231517}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B104EE-6E79-4740-BEE2-3CF8F2231517}|Api\\Api.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9B104EE-6E79-4740-BEE2-3CF8F2231517}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B104EE-6E79-4740-BEE2-3CF8F2231517}|Api\\Api.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\api\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B104EE-6E79-4740-BEE2-3CF8F2231517}|Api\\Api.csproj|solutionrelative:api\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B104EE-6E79-4740-BEE2-3CF8F2231517}|Api\\Api.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\api\\controllers\\seanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B104EE-6E79-4740-BEE2-3CF8F2231517}|Api\\Api.csproj|solutionrelative:api\\controllers\\seanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B104EE-6E79-4740-BEE2-3CF8F2231517}|Api\\Api.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B104EE-6E79-4740-BEE2-3CF8F2231517}|Api\\Api.csproj|solutionrelative:api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B104EE-6E79-4740-BEE2-3CF8F2231517}|Api\\Api.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\api\\controllers\\hallcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B104EE-6E79-4740-BEE2-3CF8F2231517}|Api\\Api.csproj|solutionrelative:api\\controllers\\hallcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B104EE-6E79-4740-BEE2-3CF8F2231517}|Api\\Api.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\api\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B104EE-6E79-4740-BEE2-3CF8F2231517}|Api\\Api.csproj|solutionrelative:api\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B104EE-6E79-4740-BEE2-3CF8F2231517}|Api\\Api.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B104EE-6E79-4740-BEE2-3CF8F2231517}|Api\\Api.csproj|solutionrelative:api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B104EE-6E79-4740-BEE2-3CF8F2231517}|Api\\Api.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B104EE-6E79-4740-BEE2-3CF8F2231517}|Api\\Api.csproj|solutionrelative:api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B104EE-6E79-4740-BEE2-3CF8F2231517}|Api\\Api.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B104EE-6E79-4740-BEE2-3CF8F2231517}|Api\\Api.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B104EE-6E79-4740-BEE2-3CF8F2231517}|Api\\Api.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\api\\wwwroot\\templates\\reset.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9B104EE-6E79-4740-BEE2-3CF8F2231517}|Api\\Api.csproj|solutionrelative:api\\wwwroot\\templates\\reset.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B104EE-6E79-4740-BEE2-3CF8F2231517}|Api\\Api.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\api\\wwwroot\\templates\\order.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9B104EE-6E79-4740-BEE2-3CF8F2231517}|Api\\Api.csproj|solutionrelative:api\\wwwroot\\templates\\order.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B104EE-6E79-4740-BEE2-3CF8F2231517}|Api\\Api.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\api\\wwwroot\\templates\\confirm.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9B104EE-6E79-4740-BEE2-3CF8F2231517}|Api\\Api.csproj|solutionrelative:api\\wwwroot\\templates\\confirm.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\services\\hallservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\hallservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\services\\seansservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\seansservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\services\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\services\\interfaces\\iseansservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\interfaces\\iseansservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\services\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\services\\interfaces\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\interfaces\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\services\\interfaces\\ihallservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\interfaces\\ihallservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\services\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\services\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\dtos\\slider\\slidereditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\dtos\\slider\\slidereditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\dtos\\slider\\sliderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\dtos\\slider\\sliderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\dtos\\seans\\seanseditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\dtos\\seans\\seanseditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\dtos\\seans\\seansdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\dtos\\seans\\seansdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\dtos\\order\\ordermaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\dtos\\order\\ordermaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\dtos\\order\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\dtos\\order\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\dtos\\hall\\halleditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\dtos\\hall\\halleditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\dtos\\hall\\halldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\dtos\\hall\\halldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\dtos\\event\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\dtos\\event\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\dtos\\event\\eventpaginatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\dtos\\event\\eventpaginatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\dtos\\event\\eventeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\dtos\\event\\eventeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\dtos\\event\\eventcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\dtos\\event\\eventcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\dtos\\category\\categoryeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\dtos\\category\\categoryeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\dtos\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\dtos\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\dtos\\appuser\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\dtos\\appuser\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\dtos\\appuser\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\dtos\\appuser\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\dtos\\appuser\\updatepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\dtos\\appuser\\updatepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\dtos\\appuser\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\dtos\\appuser\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\dtos\\appuser\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\dtos\\appuser\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\dtos\\appuser\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\dtos\\appuser\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\dtos\\appuser\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\dtos\\appuser\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\servicelayer\\dtos\\appuser\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81516A0F-005B-4EF6-9202-D5B2874A4C64}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\dtos\\appuser\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\repositorylayer\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\repositorylayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\repositorylayer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\repositorylayer\\repositories\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\repositories\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\repositorylayer\\repositories\\seansrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\repositories\\seansrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\repositorylayer\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\repositorylayer\\repositories\\hallrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\repositories\\hallrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\repositorylayer\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\repositorylayer\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\repositorylayer\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\repositorylayer\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\repositorylayer\\repositories\\interfaces\\isliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\repositories\\interfaces\\isliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\repositorylayer\\repositories\\interfaces\\iseansrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\repositories\\interfaces\\iseansrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\repositorylayer\\repositories\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\repositories\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\repositorylayer\\repositories\\interfaces\\ihallrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\repositories\\interfaces\\ihallrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\repositorylayer\\repositories\\interfaces\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\repositories\\interfaces\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\repositorylayer\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\repositorylayer\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C06A2C1-07C4-4E7A-B06A-673416FDF66C}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCAACE3-5F5C-4E21-BB9C-31EA6879D96B}|DomainLayer\\DomainLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\domainlayer\\configurations\\sliderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BCAACE3-5F5C-4E21-BB9C-31EA6879D96B}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\configurations\\sliderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCAACE3-5F5C-4E21-BB9C-31EA6879D96B}|DomainLayer\\DomainLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\domainlayer\\configurations\\seansconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BCAACE3-5F5C-4E21-BB9C-31EA6879D96B}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\configurations\\seansconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCAACE3-5F5C-4E21-BB9C-31EA6879D96B}|DomainLayer\\DomainLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\domainlayer\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BCAACE3-5F5C-4E21-BB9C-31EA6879D96B}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCAACE3-5F5C-4E21-BB9C-31EA6879D96B}|DomainLayer\\DomainLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\domainlayer\\configurations\\hallconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BCAACE3-5F5C-4E21-BB9C-31EA6879D96B}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\configurations\\hallconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCAACE3-5F5C-4E21-BB9C-31EA6879D96B}|DomainLayer\\DomainLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\domainlayer\\configurations\\eventconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BCAACE3-5F5C-4E21-BB9C-31EA6879D96B}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\configurations\\eventconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCAACE3-5F5C-4E21-BB9C-31EA6879D96B}|DomainLayer\\DomainLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\domainlayer\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BCAACE3-5F5C-4E21-BB9C-31EA6879D96B}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCAACE3-5F5C-4E21-BB9C-31EA6879D96B}|DomainLayer\\DomainLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\domainlayer\\entities\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BCAACE3-5F5C-4E21-BB9C-31EA6879D96B}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\entities\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCAACE3-5F5C-4E21-BB9C-31EA6879D96B}|DomainLayer\\DomainLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\domainlayer\\entities\\seans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BCAACE3-5F5C-4E21-BB9C-31EA6879D96B}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\entities\\seans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCAACE3-5F5C-4E21-BB9C-31EA6879D96B}|DomainLayer\\DomainLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\domainlayer\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BCAACE3-5F5C-4E21-BB9C-31EA6879D96B}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCAACE3-5F5C-4E21-BB9C-31EA6879D96B}|DomainLayer\\DomainLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\domainlayer\\entities\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BCAACE3-5F5C-4E21-BB9C-31EA6879D96B}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\entities\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCAACE3-5F5C-4E21-BB9C-31EA6879D96B}|DomainLayer\\DomainLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\domainlayer\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BCAACE3-5F5C-4E21-BB9C-31EA6879D96B}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCAACE3-5F5C-4E21-BB9C-31EA6879D96B}|DomainLayer\\DomainLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\domainlayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BCAACE3-5F5C-4E21-BB9C-31EA6879D96B}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCAACE3-5F5C-4E21-BB9C-31EA6879D96B}|DomainLayer\\DomainLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\domainlayer\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BCAACE3-5F5C-4E21-BB9C-31EA6879D96B}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCAACE3-5F5C-4E21-BB9C-31EA6879D96B}|DomainLayer\\DomainLayer.csproj|c:\\projects\\back end\\iticket\\iticket6\\finalapi\\domainlayer\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BCAACE3-5F5C-4E21-BB9C-31EA6879D96B}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T20:51:43.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAIQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\Api\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\Api\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Api\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeansController.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\Api\\Controllers\\SeansController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\SeansController.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\Api\\Controllers\\SeansController.cs",
+              "RelativeToolTip": "Api\\Controllers\\SeansController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAYwDsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\Api\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\Api\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Api\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwCUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HallController.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\Api\\Controllers\\HallController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\HallController.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\Api\\Controllers\\HallController.cs",
+              "RelativeToolTip": "Api\\Controllers\\HallController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\Api\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\Api\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Api\\Controllers\\EventController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAYwFIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\Api\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\Api\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Api\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAzwDoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\Api\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\Api\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Api\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\Api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\Api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Api\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAI0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Reset.html",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\Api\\wwwroot\\Templates\\Reset.html",
+              "RelativeDocumentMoniker": "Api\\wwwroot\\Templates\\Reset.html",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\Api\\wwwroot\\Templates\\Reset.html",
+              "RelativeToolTip": "Api\\wwwroot\\Templates\\Reset.html",
+              "ViewState": "AQIAALMAAAAAAAAAAAAwwMoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-21T20:51:43.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.html",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\Api\\wwwroot\\Templates\\Order.html",
+              "RelativeDocumentMoniker": "Api\\wwwroot\\Templates\\Order.html",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\Api\\wwwroot\\Templates\\Order.html",
+              "RelativeToolTip": "Api\\wwwroot\\Templates\\Order.html",
+              "ViewState": "AQIAALAAAAAAAAAAAAAwwMcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-21T20:51:43.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Confirm.html",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\Api\\wwwroot\\Templates\\Confirm.html",
+              "RelativeDocumentMoniker": "Api\\wwwroot\\Templates\\Confirm.html",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\Api\\wwwroot\\Templates\\Confirm.html",
+              "RelativeToolTip": "Api\\wwwroot\\Templates\\Confirm.html",
+              "ViewState": "AQIAALMAAAAAAAAAAAAwwMoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-21T20:51:43.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\TokenService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\TokenService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAYwDEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SliderService.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\SliderService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\SliderService.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\SliderService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\SliderService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAzwDkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SeansService.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\SeansService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\SeansService.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\SeansService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\SeansService.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAzwDcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\OrderService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\OrderService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAzwCYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HallService.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\HallService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\HallService.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\HallService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\HallService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAzwDwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\DependencyInjection.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DependencyInjection.cs",
+              "RelativeToolTip": "ServiceLayer\\DependencyInjection.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwB0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\EventService.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\EventService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\EventService.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAYwFgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServiceLayer.csproj",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\ServiceLayer.csproj",
+              "RelativeDocumentMoniker": "ServiceLayer\\ServiceLayer.csproj",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\ServiceLayer.csproj",
+              "RelativeToolTip": "ServiceLayer\\ServiceLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-21T20:51:43.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\EmailService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\EmailService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\CategoryService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\CategoryService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwDkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\AccountService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\AccountService.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAMwHoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\Interfaces\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ISliderService.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\Interfaces\\ISliderService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\Interfaces\\ISliderService.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\Interfaces\\ISliderService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\Interfaces\\ISliderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ISeansService.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\Interfaces\\ISeansService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\Interfaces\\ISeansService.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\Interfaces\\ISeansService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\Interfaces\\ISeansService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAApwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\Interfaces\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IHallService.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\Interfaces\\IHallService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\Interfaces\\IHallService.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\Interfaces\\IHallService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\Interfaces\\IHallService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\Interfaces\\IEventService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\Interfaces\\IEventService.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\Interfaces\\IEventService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\Interfaces\\IEventService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\Interfaces\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\Interfaces\\IAccountService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\Interfaces\\IAccountService.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Services\\Interfaces\\IAccountService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\Interfaces\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SliderEditDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\Slider\\SliderEditDto.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\DTOs\\Slider\\SliderEditDto.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\Slider\\SliderEditDto.cs",
+              "RelativeToolTip": "ServiceLayer\\DTOs\\Slider\\SliderEditDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SliderDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\Slider\\SliderDto.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\DTOs\\Slider\\SliderDto.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\Slider\\SliderDto.cs",
+              "RelativeToolTip": "ServiceLayer\\DTOs\\Slider\\SliderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SeansEditDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\Seans\\SeansEditDto.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\DTOs\\Seans\\SeansEditDto.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\Seans\\SeansEditDto.cs",
+              "RelativeToolTip": "ServiceLayer\\DTOs\\Seans\\SeansEditDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SeansDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\Seans\\SeansDto.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\DTOs\\Seans\\SeansDto.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\Seans\\SeansDto.cs",
+              "RelativeToolTip": "ServiceLayer\\DTOs\\Seans\\SeansDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "OrderMailDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\Order\\OrderMailDto.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\DTOs\\Order\\OrderMailDto.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\Order\\OrderMailDto.cs",
+              "RelativeToolTip": "ServiceLayer\\DTOs\\Order\\OrderMailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\Order\\OrderDto.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\DTOs\\Order\\OrderDto.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\Order\\OrderDto.cs",
+              "RelativeToolTip": "ServiceLayer\\DTOs\\Order\\OrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "ServiceLayer\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwCcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "HallEditDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\Hall\\HallEditDto.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\DTOs\\Hall\\HallEditDto.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\Hall\\HallEditDto.cs",
+              "RelativeToolTip": "ServiceLayer\\DTOs\\Hall\\HallEditDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "HallDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\Hall\\HallDto.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\DTOs\\Hall\\HallDto.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\Hall\\HallDto.cs",
+              "RelativeToolTip": "ServiceLayer\\DTOs\\Hall\\HallDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EventPaginateDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\Event\\EventPaginateDto.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\DTOs\\Event\\EventPaginateDto.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\Event\\EventPaginateDto.cs",
+              "RelativeToolTip": "ServiceLayer\\DTOs\\Event\\EventPaginateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EventEditDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\Event\\EventEditDto.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\DTOs\\Event\\EventEditDto.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\Event\\EventEditDto.cs",
+              "RelativeToolTip": "ServiceLayer\\DTOs\\Event\\EventEditDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EventDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\Event\\EventDto.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\DTOs\\Event\\EventDto.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\Event\\EventDto.cs",
+              "RelativeToolTip": "ServiceLayer\\DTOs\\Event\\EventDto.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAASwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EventCreateDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\Event\\EventCreateDto.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\DTOs\\Event\\EventCreateDto.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\Event\\EventCreateDto.cs",
+              "RelativeToolTip": "ServiceLayer\\DTOs\\Event\\EventCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CategoryEditDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\Category\\CategoryEditDto.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\DTOs\\Category\\CategoryEditDto.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\Category\\CategoryEditDto.cs",
+              "RelativeToolTip": "ServiceLayer\\DTOs\\Category\\CategoryEditDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\Category\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\DTOs\\Category\\CategoryDto.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\Category\\CategoryDto.cs",
+              "RelativeToolTip": "ServiceLayer\\DTOs\\Category\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\AppUser\\UserDto.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\DTOs\\AppUser\\UserDto.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\AppUser\\UserDto.cs",
+              "RelativeToolTip": "ServiceLayer\\DTOs\\AppUser\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\AppUser\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\DTOs\\AppUser\\UpdateUserDto.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\AppUser\\UpdateUserDto.cs",
+              "RelativeToolTip": "ServiceLayer\\DTOs\\AppUser\\UpdateUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UpdatePasswordDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\AppUser\\UpdatePasswordDto.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\DTOs\\AppUser\\UpdatePasswordDto.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\AppUser\\UpdatePasswordDto.cs",
+              "RelativeToolTip": "ServiceLayer\\DTOs\\AppUser\\UpdatePasswordDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RoleDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\AppUser\\RoleDto.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\DTOs\\AppUser\\RoleDto.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\AppUser\\RoleDto.cs",
+              "RelativeToolTip": "ServiceLayer\\DTOs\\AppUser\\RoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ResetPasswordDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\AppUser\\ResetPasswordDto.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\DTOs\\AppUser\\ResetPasswordDto.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\AppUser\\ResetPasswordDto.cs",
+              "RelativeToolTip": "ServiceLayer\\DTOs\\AppUser\\ResetPasswordDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\AppUser\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\DTOs\\AppUser\\RegisterDto.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\AppUser\\RegisterDto.cs",
+              "RelativeToolTip": "ServiceLayer\\DTOs\\AppUser\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\AppUser\\LoginDto.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\DTOs\\AppUser\\LoginDto.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\AppUser\\LoginDto.cs",
+              "RelativeToolTip": "ServiceLayer\\DTOs\\AppUser\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ForgotPasswordDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\AppUser\\ForgotPasswordDto.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\DTOs\\AppUser\\ForgotPasswordDto.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\ServiceLayer\\DTOs\\AppUser\\ForgotPasswordDto.cs",
+              "RelativeToolTip": "ServiceLayer\\DTOs\\AppUser\\ForgotPasswordDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\DependencyInjection.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\DependencyInjection.cs",
+              "RelativeToolTip": "RepositoryLayer\\DependencyInjection.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "RepositoryLayer\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAYwDoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SliderRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\SliderRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Repositories\\SliderRepository.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\SliderRepository.cs",
+              "RelativeToolTip": "RepositoryLayer\\Repositories\\SliderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "SeansRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\SeansRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Repositories\\SeansRepository.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\SeansRepository.cs",
+              "RelativeToolTip": "RepositoryLayer\\Repositories\\SeansRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "RepositoryLayer\\Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "HallRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\HallRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Repositories\\HallRepository.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\HallRepository.cs",
+              "RelativeToolTip": "RepositoryLayer\\Repositories\\HallRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\AppDbContext.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\AppDbContext.cs",
+              "RelativeToolTip": "RepositoryLayer\\AppDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwB0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\EventRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Repositories\\EventRepository.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\EventRepository.cs",
+              "RelativeToolTip": "RepositoryLayer\\Repositories\\EventRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwCIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\Repository.cs",
+              "RelativeToolTip": "RepositoryLayer\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAFUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "RepositoryLayer\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "RepositoryLayer\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ISliderRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\Interfaces\\ISliderRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Repositories\\Interfaces\\ISliderRepository.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\Interfaces\\ISliderRepository.cs",
+              "RelativeToolTip": "RepositoryLayer\\Repositories\\Interfaces\\ISliderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ISeansRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\Interfaces\\ISeansRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Repositories\\Interfaces\\ISeansRepository.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\Interfaces\\ISeansRepository.cs",
+              "RelativeToolTip": "RepositoryLayer\\Repositories\\Interfaces\\ISeansRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "RepositoryLayer\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IHallRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\Interfaces\\IHallRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Repositories\\Interfaces\\IHallRepository.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\Interfaces\\IHallRepository.cs",
+              "RelativeToolTip": "RepositoryLayer\\Repositories\\Interfaces\\IHallRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\Interfaces\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Repositories\\Interfaces\\IEventRepository.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\Interfaces\\IEventRepository.cs",
+              "RelativeToolTip": "RepositoryLayer\\Repositories\\Interfaces\\IEventRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "RepositoryLayer\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAASwBQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\RepositoryLayer\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "RepositoryLayer\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "EventConfiguration.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\DomainLayer\\Configurations\\EventConfiguration.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Configurations\\EventConfiguration.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\DomainLayer\\Configurations\\EventConfiguration.cs",
+              "RelativeToolTip": "DomainLayer\\Configurations\\EventConfiguration.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAnwBoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "HallConfiguration.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\DomainLayer\\Configurations\\HallConfiguration.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Configurations\\HallConfiguration.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\DomainLayer\\Configurations\\HallConfiguration.cs",
+              "RelativeToolTip": "DomainLayer\\Configurations\\HallConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\DomainLayer\\Configurations\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Configurations\\OrderConfiguration.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\DomainLayer\\Configurations\\OrderConfiguration.cs",
+              "RelativeToolTip": "DomainLayer\\Configurations\\OrderConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "SeansConfiguration.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\DomainLayer\\Configurations\\SeansConfiguration.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Configurations\\SeansConfiguration.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\DomainLayer\\Configurations\\SeansConfiguration.cs",
+              "RelativeToolTip": "DomainLayer\\Configurations\\SeansConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "SliderConfiguration.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\DomainLayer\\Configurations\\SliderConfiguration.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Configurations\\SliderConfiguration.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\DomainLayer\\Configurations\\SliderConfiguration.cs",
+              "RelativeToolTip": "DomainLayer\\Configurations\\SliderConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\DomainLayer\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\DomainLayer\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "DomainLayer\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\DomainLayer\\Entities\\Slider.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\Slider.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\DomainLayer\\Entities\\Slider.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\Slider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Seans.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\DomainLayer\\Entities\\Seans.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\Seans.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\DomainLayer\\Entities\\Seans.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\Seans.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\DomainLayer\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\Order.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\DomainLayer\\Entities\\Order.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Hall.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\DomainLayer\\Entities\\Hall.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\Hall.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\DomainLayer\\Entities\\Hall.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\Hall.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\DomainLayer\\Entities\\Event.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\Event.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\DomainLayer\\Entities\\Event.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\DomainLayer\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\Category.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\DomainLayer\\Entities\\Category.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\DomainLayer\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\DomainLayer\\Entities\\AppUser.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\DomainLayer\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Projects\\Back End\\ITicket\\ITicket6\\FinalApi\\DomainLayer\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "DomainLayer\\Common\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:51:43.808Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
